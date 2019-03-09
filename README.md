@@ -2,7 +2,7 @@
 
 <b>Human Protein Atlas Classification - Featured Competition on Kaggle</b>
 
-The dataset was taken from Kaggle : https://www.kaggle.com/c/dog-breed-identification/data
+The dataset was taken from Kaggle : https://www.kaggle.com/c/human-protein-atlas-image-classification/data
 
 Problem Statement : Classify subcellular protein patterns in human cells.
 
